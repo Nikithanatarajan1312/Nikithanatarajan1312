@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Nikitha.
+- 🔭 I’m currently working on Data science Projects.
+- 🌱 I’m currently learning Machine Learning, Cloud computing.
 <!--
 **Nikithanatarajan1312/Nikithanatarajan1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
