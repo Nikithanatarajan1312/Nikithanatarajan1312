@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data science Projects.
 - 🌱 I’m currently learning Machine Learning, Cloud computing.
 -->
-- 🔭 Completed B. Tech Computer B. Tech Computer Science Engineering
+- 🔭 Completed B. Tech Computer Science Engineering
 - 🌱 I’m currently learning Machine Learning, Cloud computing.
 <!--
 - 👯 I’m looking to collaborate on ...
