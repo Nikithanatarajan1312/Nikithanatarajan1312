@@ -47,7 +47,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/nikitha-n-264734217/)" target="_blank">
+  <a href="https://www.linkedin.com/in/nikitha-n-264734217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Nikithanatarajan1312/Nikithanatarajan1312/" target="_blank">
