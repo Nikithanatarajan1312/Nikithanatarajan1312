@@ -8,7 +8,7 @@
 
 - 🎓 MS in Computer Science @ Texas A&M University (GPA: 4.0)
 - 💼 Former Business Technology Solutions Associate @ ZS Associates
-- 💻 Currently building: **An unobtrusive AR system for real-time argument visualization**
+- 💻 Currently building: 
 - 🌱 Exploring: **Retrieval-Augmented Systems, AR systems, Applied Machine Learning**
 - 🧠 Interests: AI in healthcare, scalable data systems, intelligent interfaces
 
