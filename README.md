@@ -7,6 +7,7 @@
 ### 🚀 About Me
 
 - 🎓 MS in Computer Science @ Texas A&M University (GPA: 4.0)
+- 💼 Summer Intern - Decision Science @ Farmers Insurance
 - 💼 Former Business Technology Solutions Associate @ ZS Associates
 - 💻 Currently building: 
 - 🌱 Exploring: **Retrieval-Augmented Systems, AR systems, Applied Machine Learning**
